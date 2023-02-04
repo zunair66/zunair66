@@ -1,4 +1,4 @@
-![Header](zunair66\WhatsApp Video 2023-02-04 at 2.34.09 AM.mp4)
+![logo](https://github.com/zunair66/zunair66/blob/main/WhatsApp%20Image%202023-02-04%20at%202.32.48%20AM.jpeg)
 <h1 align="center">Hi 👋, I'm Muhammad Zunair Arif</h1>
 <h3 align="center">A Passionate MERN Stack Developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
