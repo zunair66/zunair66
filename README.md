@@ -1,7 +1,7 @@
-![Header](C:\Users\DELL\Desktop\github\zunair66\WhatsApp Video 2023-02-04 at 2.34.09 AM.mp4)
+![Header](zunair66\WhatsApp Video 2023-02-04 at 2.34.09 AM.mp4)
 <h1 align="center">Hi 👋, I'm Muhammad Zunair Arif</h1>
 <h3 align="center">A Passionate MERN Stack Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="C:\Users\DELL\Desktop\github\zunair66\WhatsApp Image 2023-02-04 at 2.32.48 AM.jpeg">
+<img align="right" alt="Coding" width="400" src="zunair66\WhatsApp Image 2023-02-04 at 2.32.48 AM.jpeg">
 
 - 🔭 I’m currently working on **Final Year Project High Risk Disease Prediction & Diet Recommendation System**
 
